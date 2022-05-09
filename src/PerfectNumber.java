@@ -6,7 +6,7 @@ public class PerfectNumber {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter a number: ");
+        System.out.print("Enter a number : ");
         int k = input.nextInt();
 
         for (int i = 1; i < k; i++) {
